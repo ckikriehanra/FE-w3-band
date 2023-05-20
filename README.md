@@ -11,9 +11,9 @@
       <li> How to use ccs to selector: class(.), id(#)
       </li>
       <li> How to use attribute?
-      <\li>
+      </li>
       <li> How to see the web page by row and column to optimize design
-      <\li>     
+      </li>     
     </ul>
   </li>
   <li> I learn how to set up a front end project. How to analyse parts, include: header, slider, content, footer
